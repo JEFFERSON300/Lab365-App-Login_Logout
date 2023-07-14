@@ -1,0 +1,18 @@
+button {
+  width: 5rem;
+  height: 1.5rem;
+}
+
+.all {
+  border: 1px rgb(122, 118, 118) solid;
+  padding: 0 auto;
+  width: 300px;
+  border-radius: 5px;
+  margin: 1rem auto;
+}
+
+.afterButton {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
